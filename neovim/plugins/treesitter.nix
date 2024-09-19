@@ -8,6 +8,7 @@
         ensure_install = "all";
 	    highlight.enable = true;
         sync_install = false;
+        incremental_selection.enable = true;
       };
     };
   };

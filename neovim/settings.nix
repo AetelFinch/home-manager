@@ -2,7 +2,7 @@
   programs.nixvim = {
     viAlias = true;
     vimAlias = true;
-  
+
     opts = {
       tabstop = 4;
       shiftwidth = 4;
