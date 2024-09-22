@@ -13,12 +13,12 @@
         };
       };
     };
-  keymaps = [
-    {
-      mode = "n";
-      key = "\\\\";
-      action = "<:Neotree reveal toggle<CR>";
-    }
-  ];
+    keymaps = [
+      {
+        mode = "n";
+        key = "\\\\";
+        action = ":Neotree reveal toggle<CR>";
+      }
+    ];
   };
 }
